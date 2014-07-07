@@ -12,7 +12,7 @@ let g:colors_name = "nonfelony"
 
 "---GUI settings
 hi Normal           guifg=#0a0a0a   guibg=#fff8ee   gui=none
-hi LineNr           guifg=#fff8ee   guibg=#ad5d60   gui=none
+hi LineNr           guifg=#ba8389   guibg=#ad5d60   gui=none
 hi StatusLine       guifg=#0a0a0a   guibg=#a7b7f7   gui=none
 hi StatusLineNC     guifg=#a0a0a0   guibg=#0a0a0a   gui=none
 hi Cursor           guifg=#f0f000   guibg=#0a0af0   gui=none

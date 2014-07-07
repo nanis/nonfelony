@@ -1,6 +1,6 @@
 # nonfelony
 
-A Vim color scheme that may be a misdemeanor against good taste
+A Vim color scheme that may be a misdemeanor against good taste. GUI only.
 
 ## A screenshot
 

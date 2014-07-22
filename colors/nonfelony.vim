@@ -1,7 +1,7 @@
 " Vim colorscheme
 " Name:         nonfelony
 " Maintainer:   A. Sinan Unur <nanis@cpan.org>
-" Last Change:  2014-07-07
+" Last Change:  2014-07-22
 
 hi clear
 set background=light
@@ -11,7 +11,7 @@ endif
 let g:colors_name = "nonfelony"
 
 "---GUI settings
-hi Normal           guifg=#0a0a0a   guibg=#fff8ee   gui=none
+hi Normal           guifg=#0a0a0a   guibg=#fffcfc   gui=none
 hi LineNr           guifg=#fff8ee   guibg=#ba8389   gui=none
 hi StatusLine       guifg=#0a0a0a   guibg=#a7b7f7   gui=none
 hi StatusLineNC     guifg=#a0a0a0   guibg=#0a0a0a   gui=none
